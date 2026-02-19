@@ -1,0 +1,62 @@
+[
+  {
+    "isbn": "9783161484100",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": []
+  },
+  {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": []
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": []
+  },
+  {
+    "isbn": "9780141187761",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "reviews": []
+  },
+  {
+    "isbn": "9780544003415",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "reviews": []
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "reviews": []
+  },
+  {
+    "isbn": "9780141439518",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "reviews": []
+  },
+  {
+    "isbn": "9781503280786",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "reviews": []
+  },
+  {
+    "isbn": "9781503290563",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "reviews": []
+  },
+  {
+    "isbn": "9781503280465",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "reviews": []
+  }
+]
